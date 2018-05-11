@@ -26,8 +26,8 @@ from selenium.webdriver import Chrome
 from selenium.webdriver.chrome.options import Options
 from selenium.common.exceptions import NoAlertPresentException
 
-USERNAME='loose@astron.nl'
-PASSWORD='CuKcABt8K40y'
+USERNAME='<email address>'
+PASSWORD='<password>'
 
 # Create a head-less browser
 opts = Options()
